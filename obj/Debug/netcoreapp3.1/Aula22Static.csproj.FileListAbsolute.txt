@@ -1,0 +1,13 @@
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.exe
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.deps.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.runtimeconfig.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.runtimeconfig.dev.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.dll
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.csprojAssemblyReference.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.csproj.CoreCompileInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.AssemblyInfoInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.AssemblyInfo.cs
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.dll
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.genruntimeconfig.cache
